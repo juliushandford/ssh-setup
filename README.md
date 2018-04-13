@@ -10,3 +10,7 @@ Check git user.
 Commit message with built-in editor.
 
 Amend this change into the previous 86601f commit.
+
+Update followup.
+
+Amend before pushing previous commit.
