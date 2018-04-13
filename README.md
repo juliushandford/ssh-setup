@@ -6,3 +6,7 @@ Committing with specific key.
 Double check the ssh agent key persistence.
 
 Check git user.
+
+Commit message with built-in editor.
+
+Amend this change into the previous 86601f commit.
