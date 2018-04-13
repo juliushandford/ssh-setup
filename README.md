@@ -6,3 +6,5 @@ Committing with specific key.
 Double check the ssh agent key persistence.
 
 Check git user.
+
+Commit message with built-in editor.
